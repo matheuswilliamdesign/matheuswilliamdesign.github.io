@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="81.8268mm" height="80.6062mm" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8353.6 8228.99"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#EA4C86;stroke-width:89;stroke-miterlimit:22.9256}
+    .str0 {stroke:white;stroke-width:89;stroke-miterlimit:22.9256}
+    .str2 {stroke:#C04689;stroke-width:4.32;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil3 {fill:#EA4C86}
+    .fil1 {fill:#EA4C86;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2177191444416">
+   <g id="Layer_1-2" data-name="Layer 1">
+    <polyline class="fil0 str0" points="5595.64,4097.55 5595.64,2191.47 3689.56,4097.55 3689.56,2185.64 1777.39,4097.55 107.44,4097.55 4119.22,86.04 "/>
+    <polyline class="fil0 str1" points="2757.96,4076.11 2757.96,5982.19 4664.04,4076.11 4664.04,5988.02 6575.95,4076.11 8246.16,4076.11 4187.52,8134.47 "/>
+    <g>
+     <polygon class="fil1" points="4159.46,8106.42 4149.13,8116.74 4149.13,8228.99 4215.58,8162.54 "/>
+    </g>
+    <g>
+     <polygon class="fil2" points="4138.81,122.57 4149.13,112.25 4149.13,0 4082.69,66.45 "/>
+    </g>
+   </g>
+   <polygon class="fil3" points="4160.48,8109.18 4212.35,8109.18 4212.35,8161.04 4160.48,8161.04 "/>
+   <line class="fil0 str2" x1="4216.66" y1="8165.36" x2="4164.81" y2= "8217.21" />
+  </g>
+ </g>
+</svg>
